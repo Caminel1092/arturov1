@@ -3,6 +3,9 @@
     "path": "/about-us"
   },
 
+  "store.custom#bosque-encantado":{
+    "path": "/coleccion/bosque-encantado"
+  },
   "store.custom#freedom-hombre":{
     "path": "/freedom/hombre"
   },

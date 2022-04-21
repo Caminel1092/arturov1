@@ -20,11 +20,14 @@
 
 .filterItem.filterItem--filtros2 {
   margin-left: -46px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 
 .filterTemplateOverflow.filterTemplateOverflow--filtros2 {
   width: 127%;
+  flex-wrap: wrap;
 }
 /*--------------------------------------*/
 

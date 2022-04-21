@@ -507,6 +507,7 @@ background: transparent;}
   margin: 6px;
   display: flex;
   width: 7%;
+  margin-right: 22px;
 }
 
 .filter__container--talla .filterContent--filtros {
@@ -526,6 +527,7 @@ background: transparent;}
   margin: 6px;
   display: flex;
   width: 7%;
+  margin-right: 22px;
 }
 /*Segundo filtro de cierre*/
 .filtersWrapper--filtros2 .filter__container--selectedFilters {
@@ -601,4 +603,5 @@ background: transparent;}
 /*Espacio entre tallas*/
 .filterContent.filterContent--filtros {
   margin-right: -23%;
+  width: 89%;
 }

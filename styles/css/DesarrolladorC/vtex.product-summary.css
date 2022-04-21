@@ -33,3 +33,7 @@
   min-height: 60px;
   padding: 0 5px;
 }
+/*Quitar borde de color en category*/
+.frameAround.frameAround--vitrina {
+  border: none;
+}
