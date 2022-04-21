@@ -1,0 +1,71 @@
+{
+  "store.custom#about-us": {
+    "path": "/about-us"
+  },
+  "store.custom#faq": {
+    "path": "/faq"
+  },
+  "store.custom#contact-us": {
+    "path": "/contact-us"
+  },
+  "store.custom#mas": {
+    "path": "/mas-productos"
+  },
+  "store.custom#hombre": {
+    "path": "/hombre"
+  },
+  "store.custom#woman": {
+    "path": "/woman"
+  },
+  "store.custom#nino": {
+    "path": "/kids/nino"
+  },
+  "store.custom#nina": {
+    "path": "/kids/nina"
+  },
+  "store.custom#viaje": {
+    "path": "/viaje"
+  },
+  "store.custom#freedom": {
+    "path": "/freedom"
+  },
+  "store.custom#ofertas": {
+    "path": "/ofertas"
+  },
+  "store.custom#autorizacion-tratamiento-datos-personales": {
+    "path": "/autorizacion-tratamiento-datos-personales"
+  },
+  "store.custom#preguntas-frecuentes": {
+    "path": "/preguntas-frecuentes"
+  },
+  "store.custom#linea-etica": {
+    "path": "/linea-etica"
+  },
+  "store.custom#franquicias": {
+    "path": "/franquicias"
+  },
+  "store.custom#politica-etica-empresarial": {
+    "path": "/politica-etica-empresarial"
+  },
+  "store.custom#terminos-y-condiciones": {
+    "path": "/terminos-y-condiciones"
+  },
+  "store.custom#historia": {
+    "path": "/historia"
+  },
+  "store.custom#politica-envio-cambios-garantias": {
+    "path": "/politica-envio-cambios-garantias"
+  },
+  "store.custom#politica-de-datos": {
+    "path": "/politica-de-datos"
+  },
+  "store.custom#contacto": {
+    "path": "/contacto"
+  },
+  "store.custom#condiciones-actividades-comerciales": {
+    "path": "/condiciones-actividades-comerciales"
+  },
+  "store.custom#login": {
+    "path": "/login-custom"
+  }
+}

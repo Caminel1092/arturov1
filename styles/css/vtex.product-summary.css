@@ -1,0 +1,79 @@
+.skuSelectorContainer--quickview .skuSelectorItemImage .frameAround, .skuSelectorContainer--quickview .skuSelectorItemImage .skuSelectorInternalBox {
+  border-radius: 50%;
+}
+
+.container :global(.vtex-modal-layout-0-x-triggerContainer) {
+  opacity: 0;
+  transition: opacity 200ms ease-in-out;
+}
+
+.container:hover :global(.vtex-modal-layout-0-x-triggerContainer) {
+  opacity: 1;
+}
+
+@media screen and (max-width: 40em) {
+  .container :global(.vtex-modal-layout-0-x-triggerContainer) {
+    display: none;
+  }
+}
+
+.nameContainer {
+  justify-content: start;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.brandName {
+  font-weight: 500;
+  font-size: 14px;
+  color: black;
+}
+
+.container {
+  text-align: start;
+}
+
+.imageContainer {
+  text-align: center;
+}
+
+
+
+/*------------------------------------------*/
+/* arrglando los productos vitrinas         */
+/*------------------------------------------*/
+.nameContainer--product-summary-name{
+  margin-top: 43px;
+  margin-left: 19px;
+}
+.nameContainer--product-summary-name :global(.vtex-product-summary-2-x-productBrand){
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.nameContainer--product-summary-name :global(.vtex-product-summary-2-x-productNameContainer--product-summary-name){
+  text-align:center;
+}
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+/*Vitrina camilo*/
+.skuSelectorContainer--vitrina {
+  margin: 0 !important;
+}
+.skuSelectorItem--selected{
+  border: 1px solid black;
+}
+.valueWrapper--vitrina {
+  font-size: 11px;
+  padding: 0 9px;
+}
+
+.skuSelectorItem {
+  height: 25px;
+}
+/*vitrina*/
+.nameWrapper {
+  min-height: 38px;
+  padding: 0 5px;
+}

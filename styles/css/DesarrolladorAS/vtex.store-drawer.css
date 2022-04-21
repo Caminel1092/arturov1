@@ -1,0 +1,39 @@
+.overlay--visible {
+    top: 47px;
+}
+
+.opened {
+    top: 47px;
+}
+.closeIcon {
+  color: black;
+  animation: rotation 2s;
+}
+
+
+.closeIcon {
+  position: absolute;
+  z-index: 5;
+  margin-top: -52px;
+  margin-left: 0.5%;
+  background-color: white;
+}
+
+@media screen and (max-width: 700px){
+  .closeIconContainer {
+    background-color: #f8f8f8;
+  }
+
+  /*colocar menú encima de producto*/
+  .drawer.opened {
+    z-index: 9993;
+  }
+
+  .overlay.overlay--visible {
+    z-index: 9992;
+  }
+  /*--------------------------*/
+
+}
+
+

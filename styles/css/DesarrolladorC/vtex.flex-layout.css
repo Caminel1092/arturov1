@@ -1,0 +1,178 @@
+.flexColChild--circuloN {
+  border-radius: 50%;
+}
+
+.flexColChild--circuloN {
+  position: relative;
+}
+
+.flexColChild--circuloN::before {
+  content: "0";
+  color: white;
+  display: block;
+  top: 30%;
+  font-size: 14px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.flexRowContent--menu-nivel-hombre-cats {
+  min-height: 460px;
+}
+
+/*Remplazar y quitar important*/
+.flexRowContent--menu-nivel-hombre-cats {
+  background-color: rgb(255 255 255 / 95%)!important;
+  right: 0px !important;
+  width: 100% !important;
+}
+.flexColChild--circuloN::before {
+  top: 27% !important;
+}
+/*Cerrar remplazos*/
+
+.flexRowContent--menu-link {
+  max-height: 28px;
+}
+.styledLinkContent--texpre {
+  letter-spacing: 0.2px;
+}
+
+.flexColChild--botoncomp :global(.vtex-button){
+  color: #181e2a !important;
+}
+.flexColChild--botoncomp :global(.vtex-button__label){
+  background: #181e2a ;
+}
+.flexColChild--botoncomp {background: #181e2a;}
+
+@media screen and (max-width: 700px) {
+.flexRowContent--newsletter-form--contenedor--footer {background: #181e2a;padding-top: 16px;}
+.flexRowContent--newsletterP .stretchChildrenWidth {padding: 0 6%;}
+
+.container--breadP.pv3 {flex-wrap: wrap;}
+
+.flexRow--breadproduct {
+    position: relative;
+    margin: 0;
+}
+
+.flexRowContent--breadproduct {
+    margin: 0;
+}
+.flexRowContent--imageCP {
+  margin: 20px 0 0 0;
+  padding: 8% 3%;
+}
+.flexRowContent--main-header-mobile {
+  max-height: 48px;
+}
+.flexCol--lateralColM {
+  padding: 0 2%;
+}
+.flexCol--buycolection {
+  display: flex;
+  justify-content: end;
+  margin-left: 0%;
+}
+
+}
+.flexRow--minicart-footer{
+  background:#18202c;;
+  margin: 0 !important;
+  width: 100% !important;
+}
+/*Ajustes producto*/
+
+.flexCol--lateralCol {padding: 0 4% 0 0;}
+.flexRowContent--rowSearchInfo {
+  margin-bottom: 45px;
+}
+
+/*Newsletter*/
+.flexColChild--texton {justify-content: center;display: flex;}
+
+.flexCol--campos {display: flex;justify-content: normal;}
+
+.flexRowContent--newsletterP .stretchChildrenWidth {display: flex;}
+
+
+
+/*Sticky product*/
+
+.flexRowContent--componente {width: 80%;justify-content: center;display: flex;align-items: center;margin: 0 auto;}
+
+.flexRow--componente {box-shadow: 0px 0px 0px 1px #b2afaf73;}
+
+.flexColChild--botoncompS :global(.vtex-button__label) {background: #151d29;width: 100%;padding: 0 !important;margin: 0;}
+
+.flexColChild--botoncompS :global(.vtex-button) {border: none;}
+
+.flexRow--newsletter-form--contenedor--footer {background: #181e2a;}
+
+.flexRowContent--row-vitrine-category {margin: 3% 0 0 0;}
+
+
+/*---------------------ZOOM PAGINA DE PRODUCTO*/
+.flexRowContent.flexRowContent--producto-image-and-zoom {
+  position: relative;
+}
+.flexRowContent--producto-image-and-zoom .stretchChildrenWidth:last-child {
+  position: absolute;
+  right: 3%;
+  top: 3%;z-index: 9;
+  width: 82px !important;
+}
+.flexRowContent--producto-image-and-zoom .stretchChildrenWidth:first-child {
+  width: 100% !important;
+}
+
+
+@media screen and (max-width: 700px) {
+.flexRowContent--producto-image-and-zoom .stretchChildrenWidth:last-child {
+  position: absolute;
+  right: 1%;
+  top: 3%;
+  z-index: 9;
+  width: 42px !important;
+}
+.flexRow--breadproduct {padding: 0 5%;}
+.flexRowContent--minicart {align-items: center;margin: -4px 0 0 0;}
+
+}
+@media screen and (min-width: 700px) {
+  .flexCol.flexCol--campos {
+    padding: 0px 6%;
+  }
+  }
+
+
+
+
+.flexRowContent--segundacol .flexCol {margin: 0;}
+.flexRow--main-headerC {background: white;}
+
+.flexCol--buycolection :global(.vtex-button__label) {
+  padding: 0 10%;
+}
+
+.flexColChild--precios:first-child{
+  margin: 0px;
+}
+
+/*News*/
+.flexRowContent.flexRowContent--newsletterP {background: url(https://callearturop.vteximg.com.br/arquivos/backgroundnewsdesk.png);background-size: 100%;padding: 2% 0;}
+
+
+.flexColChild.flexColChild--texton.pb0 {margin: 0 0 0 auto;}
+
+
+@media screen and (min-width: 700px) and (max-width: 1026px) {
+
+  .flexRowContent.flexRowContent--newsletterP{
+    background: url("https://callearturop.vteximg.com.br/arquivos/iconos-valor-tabletcc.png") !important;
+  }
+
+  }
