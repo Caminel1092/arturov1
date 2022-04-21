@@ -2,6 +2,143 @@
   "store.custom#about-us": {
     "path": "/about-us"
   },
+
+  "store.custom#freedom-hombre":{
+    "path": "/freedom/hombre"
+  },
+  "store.custom#freedom-hombre-blazers":{
+    "path": "/freedom/hombre/blazers"
+  },
+  "store.custom#freedom-hombre-botas":{
+    "path": "/freedom/hombre/botas"
+  },
+  "store.custom#freedom-hombre-buzos":{
+    "path": "/freedom/hombre/buzos"
+  },
+  "store.custom#freedom-hombre-camisas":{
+    "path": "/freedom/hombre/camisas"
+  },
+  "store.custom#freedom-hombre-camisetas":{
+    "path": "/freedom/hombre/camisetas"
+  },
+  "store.custom#freedom-hombre-chalecos":{
+    "path": "/freedom/hombre/chalecos"
+  },
+  "store.custom#freedom-hombre-chaquetas":{
+    "path": "/freedom/hombre/chaquetas"
+  },
+  "store.custom#freedom-hombre-jeans":{
+    "path": "/freedom/hombre/jeans"
+  },
+  "store.custom#freedom-hombre-joggers":{
+    "path": "/freedom/hombre/joggers"
+  },
+  "store.custom#freedom-hombre-medias":{
+    "path": "/freedom/hombre/medias"
+  },
+  "store.custom#freedom-hombre-pantalones":{
+    "path": "/freedom/hombre/pantalones"
+  },
+  "store.custom#freedom-hombre-pantalonetas-y-bermudas":{
+    "path": "/freedom/hombre/pantalonetas-y-bermudas"
+  },
+  "store.custom#freedom-hombre-polos":{
+    "path": "/freedom/hombre/polos"
+  },
+  "store.custom#freedom-hombre-ropa-interior":{
+    "path": "/freedom/hombre/ropa-interior"
+  },
+  "store.custom#freedom-hombre-sweaters":{
+    "path": "/freedom/hombre/sweaters"
+  },
+  "store.custom#freedom-hombre-tenis":{
+    "path": "/freedom/hombre/tenis"
+  },
+
+
+"store.custom#freedom-mujer":{
+  "path": "/freedom/mujer"
+},
+"store.custom#freedom-mujer-vestidos-y-enterizos":{
+  "path": "/freedom/mujer/vestidos-y-enterizos"
+},
+"store.custom#freedom-mujer-tenis":{
+  "path": "/freedom/mujer/tenis"
+},
+"store.custom#freedom-mujer-shorts":{
+  "path": "/freedom/mujer/shorts"
+},
+"store.custom#freedom-mujer-ropa-interior":{
+  "path": "/freedom/mujer/ropa-interior"
+},
+"store.custom#freedom-mujer-pantalones":{
+  "path": "/freedom/mujer/pantalones"
+},
+"store.custom#freedom-mujer-medias":{
+  "path": "/freedom/mujer/medias"
+},
+"store.custom#freedom-mujer-jeans":{
+  "path": "/freedom/mujer/jeans"
+},
+"store.custom#freedom-mujer-faldas":{
+  "path": "/freedom/mujer/faldas"
+},
+"store.custom#freedom-mujer-chaquetas":{
+  "path": "/freedom/mujer/chaquetas"
+},
+"store.custom#freedom-mujer-chalecos":{
+  "path": "/freedom/mujer/chalecos"
+},
+"store.custom#freedom-mujer-camisetas":{
+  "path": "/freedom/mujer/camisetas"
+},
+"store.custom#freedom-mujer-buzos":{
+  "path": "/freedom/mujer/buzos"
+},
+"store.custom#freedom-mujer-botas":{
+  "path": "/freedom/mujer/botas"
+},
+"store.custom#freedom-mujer-blusas-y-camisas":{
+  "path": "/freedom/mujer/blusas-y-camisas"
+},
+
+
+"store.custom#freedom-accesorios":{
+  "path": "/freedom/accesorios"
+},
+"store.custom#freedom-accesorios-tapabocas":{
+  "path": "/freedom/accesorios/tapabocas"
+},
+"store.custom#freedom-accesorios-pulseras-y-brazaletes":{
+  "path": "/freedom/accesorios/pulseras-y-brazaletes"
+},
+"store.custom#freedom-accesorios-morrales-y-bolsos":{
+  "path": "/freedom/accesorios/morrales-y-bolsos"
+},
+"store.custom#freedom-accesorios-llaveros":{
+  "path": "/freedom/accesorios/llaveros"
+},
+"store.custom#freedom-accesorios-gorras":{
+  "path": "/freedom/accesorios/gorras"
+},
+"store.custom#freedom-accesorios-cinturones":{
+  "path": "/freedom/accesorios/cinturones"
+},
+
+
+
+"store.custom#freedom-new-prep":{
+  "path": "/freedom/colecciones/new-prep"
+},
+"store.custom#freedom-psicodelico":{
+  "path": "/freedom/colecciones/psicodelico"
+},
+
+
+
+  "store.custom#landing":{
+    "path": "/mujerasa"
+  },
   "store.custom#faq": {
     "path": "/faq"
   },
