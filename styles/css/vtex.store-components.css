@@ -1062,3 +1062,14 @@ input#downshift-1-input {
 .productImageTag.productImageTag--imagenunica.productImageTag--main.productImageTag--imagenunica--main {
   max-width: 100% !important;
 }
+
+.imageElement.imageElement--imag--botonN {max-width: 242px;}
+
+.discountInsideContainer{
+  background: white;
+  color: black;
+  border: 1px solid;
+  margin: 2%;
+  font-family: 'DINPRO';
+  font-weight: 700;
+}

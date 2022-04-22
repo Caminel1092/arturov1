@@ -37,3 +37,6 @@
 .frameAround.frameAround--vitrina {
   border: none;
 }
+.container--categoria .productNameContainer{
+  min-height: 40px;
+}

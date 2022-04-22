@@ -605,14 +605,10 @@ Estilos Producto Sección Contenido AC*/
 /*------------------------------------*/
 
 .flexRow--buttons--images{
-  width: 84%;
-  margin-left: 10%;
+  width: 75%;
+  margin: 0 auto;
 }
 
-.flexRowContent--buttons--images{
-  display: flex;
-  flex-wrap: wrap;
-}
 
 
 .flexRow--video--freedom{
@@ -918,3 +914,9 @@ Estilos Producto Sección Contenido AC*/
 .flexRow--titleS {margin: 35px 0 -38px 0;}
 /*NEW*/
 .flexRow.flexRow--contenedorP {z-index: 9990;position: relative;}
+
+.flexColChild.flexColChild--bloqueimg.flexColChild--bloqueimgC {margin-top: 7%;margin-bottom: 4%; margin-left: 0;
+  margin-right: 0;
+  padding: 0 4%;}
+
+.flexColChild.flexColChild--bloqueimg {margin: 0 auto;min-width: 72%;}

@@ -29,7 +29,10 @@
       "flex-layout.row#selling-price-savings",
       "product-installments#summary",
       "add-to-cart-button"*/
-    ]
+    ],
+    "props":{
+      "blockClass":"categoria"
+    }
   },
   "product-summary.shelf#3": {
     "children": [
@@ -46,6 +49,7 @@
       "add-to-cart-button"*/
     ]
   },
+
 //botones de compra y precios
   "flex-layout.row#vitrina":{
     "children": [
@@ -162,7 +166,7 @@
 
   "product-summary-image#shelf": {
     "props": {
-      "showBadge": false,
+      "showBadge": true,
       "aspectRatio": "3:4",
       "maxHeight": 570,
       "hoverImage":{
