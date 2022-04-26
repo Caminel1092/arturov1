@@ -137,7 +137,15 @@
   "product-summary-sku-selector#vitrina":{
     "props":{
       "blockClass": "vitrina",
-      "hideImpossibleCombinations": false
+      "hideImpossibleCombinations": false,
+      "initialSelection": "empty"
+/*      "displayMode": "slider",
+      "sliderItemsPerPage":{
+        "desktop": "6",
+        "tablet": "5",
+        "phone": "3"
+      }*/
+
     }
   },
 

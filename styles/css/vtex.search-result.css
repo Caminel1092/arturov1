@@ -506,8 +506,8 @@ background: transparent;}
 .filter__container--talla .filterItem--filtros {
   margin: 6px;
   display: flex;
-  width: 7%;
-  margin-right: 22px;
+  width: 14%;
+  margin-right: 8px;
 }
 
 .filter__container--talla .filterContent--filtros {

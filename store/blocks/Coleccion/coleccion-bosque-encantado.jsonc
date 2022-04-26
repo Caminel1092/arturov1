@@ -5,7 +5,7 @@
   "image#freedom": {
     "props": {
       "minWidth": "100%",
-      "src": "https://arturocalle.vteximg.com.br/arquivos/Banner-Categoria-Freedom.jpg"
+      "src": "https://arturocalle.vteximg.com.br/arquivos/cat-productos-exclusivos-1920.jpg"
     }
   },
   "search-result-layout.customQuery#bosque-encantado": {
@@ -14,7 +14,7 @@
         "orderByField": "OrderByReleaseDateDESC",
         "hideUnavailableItems": true,
         "maxItemsPerPage": 12,
-        "queryField": "697",
+        "queryField": "761",
         "mapField": "productClusterIds"
       }
     },

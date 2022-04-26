@@ -288,7 +288,9 @@
     "props": {
       "variationsSpacing": 3,
       "showValueNameForImageVariation": true,
-      "blockClass": "selector"
+      "blockClass": "selector",
+      "visibility": "more-than-one",
+      "disableUnavailableSelectOptions": true
     }
   },
 

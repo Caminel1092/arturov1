@@ -2,9 +2,8 @@
   "store.custom#about-us": {
     "path": "/about-us"
   },
-
   "store.custom#bosque-encantado":{
-    "path": "/coleccion/bosque-encantado"
+    "path": "/coleccion/Productos-online"
   },
   "store.custom#freedom-hombre":{
     "path": "/freedom/hombre"
@@ -162,9 +161,6 @@
   },
   "store.custom#nina": {
     "path": "/kids/nina"
-  },
-  "store.custom#viaje": {
-    "path": "/viaje"
   },
   "store.custom#freedom": {
     "path": "/freedom"
