@@ -12,13 +12,14 @@
       "flex-layout.row#product-breadcrumb",
       "vtex.product-highlights@2.x:product-highlights#collectionC",
       "condition-layout.product#availability",
+      "addi-infos",
       "sticky-layout#buy-button",
       "shelf.relatedProducts#accesorios",
       "shelf.relatedProducts#view",
       "flex-layout.row#News"
-
     ]
   },
+  "addi-infos":{},
   "responsive-layout.tablet":{
     "children":[
       "flex-layout.row#product-breadcrumb",
