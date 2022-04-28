@@ -12,7 +12,6 @@
       "flex-layout.row#product-breadcrumb",
       "vtex.product-highlights@2.x:product-highlights#collectionC",
       "condition-layout.product#availability",
-      "addi-infos",
       "sticky-layout#buy-button",
       "shelf.relatedProducts#accesorios",
       "shelf.relatedProducts#view",
@@ -207,7 +206,7 @@
       //"flex-layout.row#list-price-savings",
       "product-list-price",
       "flex-layout.row#selling-price",
-
+      "flex-layout.row#right-colADDI",
       //"product-installments",
       //"product-separator",
       "sku-selector",
@@ -218,6 +217,13 @@
       "flex-layout.row#buy-button",
       "flex-layout.row#imagenc"
     ]
+  },
+  // addid contenedro
+  "flex-layout.row#right-colADDI": {
+    "props": {
+      "blockClass":"ADDI"
+    },
+    "children":["addi-infos"]
   },
  // "addi-infos":{},
   "flex-layout.col#right-colMobile": {
