@@ -915,8 +915,12 @@ Estilos Producto Sección Contenido AC*/
 /*NEW*/
 .flexRow.flexRow--contenedorP {z-index: 9990;position: relative;}
 
-.flexColChild.flexColChild--bloqueimg.flexColChild--bloqueimgC {margin-top: 7%;margin-bottom: 4%; margin-left: 0;
+.flexColChild.flexColChild--bloqueimg.flexColChild--bloqueimgC {
+  margin-top: 7%;
+  margin-bottom: 4%;
+  margin-left: 0;
   margin-right: 0;
-  padding: 0 4%;}
+  padding: 0 4%;
+}
 
 .flexColChild.flexColChild--bloqueimg {margin: 0 auto;min-width: 72%;}

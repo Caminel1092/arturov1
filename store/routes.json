@@ -221,6 +221,25 @@
 
 
 
+  "store.custom#guia-regalo":{
+    "path": "/guia-de-regalos"
+  },
+  "store.custom#guia-regalo-bono":{
+    "path": "/guia-de-regalos/bonos-de-regalo"
+  },
+  "store.custom#guia-regalo-nino":{
+    "path": "/guia-de-regalos/nino"
+  },
+  "store.custom#guia-regalo-hombre":{
+    "path": "/guia-de-regalos/hombre"
+  },
+  "store.custom#guia-regalo-mujer":{
+    "path": "/guia-de-regalos/mujer"
+  },
+  "store.custom#guia-regalo-nina":{
+    "path": "/guia-de-regalos/nina"
+  },
+
 
 
 
