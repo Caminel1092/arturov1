@@ -924,3 +924,6 @@ Estilos Producto Sección Contenido AC*/
 }
 
 .flexColChild.flexColChild--bloqueimg {margin: 0 auto;min-width: 72%;}
+.flexCol--imagenColumnCategoryC {
+  max-height: 200px;
+}

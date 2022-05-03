@@ -14,7 +14,7 @@
           "orderByField": "OrderByReleaseDateDESC",
           "hideUnavailableItems": true,
           "maxItemsPerPage": 8,
-          "queryField": "754",
+          "queryField": "837",
           "mapField": "productClusterIds"
         }
       },
@@ -72,10 +72,10 @@
   },
   "flex-layout.col#col-vitrine-categoryC":{
       "children": [
-          "image#imagenCategoryC"
+        "list-context.image-list#democa"
       ],
       "props":{
-          "width":"30%",
+          "width":"31%",
           "blockClass": "imagenColumnCategoryC"
       }
   },
@@ -84,15 +84,44 @@
       "list-context.image-list#democ"
     ],
     "props":{
-        "width":"69%",
+        "width":"68%",
         "blockClass": "vitrinaImage"
     }
 },
   "image#imagenCategoryC": {
       "props": {
         "src": "https://arturocalle.vteximg.com.br/arquivos/ids/431656/celebramostodo.jpg",
-        "blockClass": "imgCategoriaSliderC"
+        "blockClass": "imgCategoriaSliderCa",
+        "max-heigth":"100%"
       }
+  },
+  "list-context.image-list#democa": {
+    "children": ["slider-layout#demo-imagesCa"],
+    "props": {
+      "height": 920,
+      "images": [
+        {
+          "image": "https://arturocalle.vteximg.com.br/arquivos/ids/431656/celebramostodo.jpg",
+          "mobileImage": "https://arturocalle.vteximg.com.br/arquivos/ids/431656/celebramostodo.jpg",
+          "link":{
+            "url":"/mujer/ropa"
+          }
+        }
+      ]
+    }
+  },
+  "slider-layout#demo-imagesCa": {
+    "props": {
+      "itemsPerPage": {
+        "desktop": 1,
+        "tablet": 1,
+        "phone": 1
+      },
+      "showPaginationDots": "never",
+      "infinite": true,
+      "showNavigationArrows": "never",
+      "blockClass": "carouselC"
+    }
   },
   "list-context.image-list#democ": {
     "children": ["slider-layout#demo-imagesC"],
